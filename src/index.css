@@ -9,6 +9,10 @@ body {
   text-align: center;
 }
 
+.grid-class {
+  gap: 12px;
+}
+
 .TwirlyPig {
   transition: all 3s ease-in-out;
   display: inline;
